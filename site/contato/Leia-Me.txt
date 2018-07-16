@@ -1,0 +1,27 @@
+=========================================== Best Contato ====================================================
+Criado por Arthur Bonora www.arthurbonora.com.br
+pagina oficial do projeto: https://sourceforge.net/projects/bestcontato/
+Pagina de codigos da Bonora Soluções Web: www.bonora.com.br/code
+
+v. 1.0 09/07/2009
+
+v.1.0.2 30/04/2010
+
+v.1.1 07/12/2011 - Incluido HTML5, deixando os nomes dos campos com atributo placeholder
+
+v.1.2.18/03/2012 - confirmações alterado para dialogs em javascript
+
+
+Para utiliza-lo basta inserir seus dados no arquivo Enviar.php
+Upar a pasta contato para seu servidor
+e depois chamar o arquivo /contato/form.php
+
+Segue abaixo tag <Iframe para utilizar>.
+
+<iframe align="center" frameborder="0" height="550" width="450" scrolling="no" src="/contato/form.php" ></iframe>
+
+======================================================================
+com sistema de Captcha de Thiago Felipe Festa - thiagofesta@gmail.com (01/05/2007)
+======================================================================
+
+
